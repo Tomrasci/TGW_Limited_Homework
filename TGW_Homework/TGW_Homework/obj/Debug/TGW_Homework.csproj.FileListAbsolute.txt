@@ -6,3 +6,11 @@ C:\Users\Tomas\source\repos\TGW_Homework\TGW_Homework\obj\Debug\TGW_Homework.csp
 C:\Users\Tomas\source\repos\TGW_Homework\TGW_Homework\obj\Debug\TGW_Homework.csproj.CoreCompileInputs.cache
 C:\Users\Tomas\source\repos\TGW_Homework\TGW_Homework\obj\Debug\TGW_Homework.exe
 C:\Users\Tomas\source\repos\TGW_Homework\TGW_Homework\obj\Debug\TGW_Homework.pdb
+C:\Users\Tomas\Desktop\TGW_Limited_Homework\TGW_Homework\TGW_Homework\bin\Debug\TGW_Homework.exe.config
+C:\Users\Tomas\Desktop\TGW_Limited_Homework\TGW_Homework\TGW_Homework\bin\Debug\TGW_Homework.exe
+C:\Users\Tomas\Desktop\TGW_Limited_Homework\TGW_Homework\TGW_Homework\bin\Debug\TGW_Homework.pdb
+C:\Users\Tomas\Desktop\TGW_Limited_Homework\TGW_Homework\TGW_Homework\obj\Debug\TGW_Homework.csproj.AssemblyReference.cache
+C:\Users\Tomas\Desktop\TGW_Limited_Homework\TGW_Homework\TGW_Homework\obj\Debug\TGW_Homework.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tomas\Desktop\TGW_Limited_Homework\TGW_Homework\TGW_Homework\obj\Debug\TGW_Homework.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Desktop\TGW_Limited_Homework\TGW_Homework\TGW_Homework\obj\Debug\TGW_Homework.exe
+C:\Users\Tomas\Desktop\TGW_Limited_Homework\TGW_Homework\TGW_Homework\obj\Debug\TGW_Homework.pdb
